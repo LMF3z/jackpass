@@ -13,6 +13,8 @@ Looking for a way to improve my Go (Golang) skills and learn something new, I de
 
 You can download the code, generate your password database, and if you manage to break the encryption, let me know so I can improve it. (Use a secure master password with 12 or more combined characters).
 
+You need to have installed go1.25.6 or major
+
 ## Build and Install
 
 Run
